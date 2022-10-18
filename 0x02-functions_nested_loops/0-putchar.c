@@ -5,9 +5,9 @@
  *
  * Return:always 0 (success)
  */
-int _putchar(char c)
+int main(void)
 {
-	printf("_putchar);
+	printf("_putchar\n");
 
 	return (0);
 }

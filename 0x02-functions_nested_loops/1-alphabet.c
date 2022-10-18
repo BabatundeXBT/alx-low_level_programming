@@ -5,9 +5,9 @@
  *
  *Return:always 0 (success)
  */
-int main(void)
+void print_alphabet(void)
 {
-	int ch;
+	char ch;
 
 	for (ch = 'a'; ch <= 'z'; ch++)
 	{

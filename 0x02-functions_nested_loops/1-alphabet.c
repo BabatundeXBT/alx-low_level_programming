@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- *main-Entry point
+ *Description:print_alphabet in lower case
  *
  *Return:always 0 (success)
  */
@@ -13,7 +13,5 @@ void print_alphabet(void)
 	{
 		_putchar(ch);
 	}
-		_putchar('\n');
-
-	return (0);
+	_putchar('\n');
 }

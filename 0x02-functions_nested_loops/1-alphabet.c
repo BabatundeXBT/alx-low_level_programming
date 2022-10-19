@@ -2,7 +2,7 @@
 #include "main.h"
 
 /**
- *Description:print_alphabet in lower case - void function
+ *Description:print_alphabet in lower case - void function print_alphabet
  *
  *Return:always 0 (success)
  */

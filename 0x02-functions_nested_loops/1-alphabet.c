@@ -3,7 +3,7 @@
 
 /**
  *Description:print_alphabet in lower case - void function
- *print_alphabet - void function
+ *print_alphabet -> prints the lowercase alphabet
  *
  *Return:always 0 (success)
  */
